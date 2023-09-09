@@ -1,0 +1,213 @@
+[
+    {
+        "category": "The Legend of Zelda",
+        "subcategories": [
+            "The Legend of Zelda: A Link to the Past",
+            "The Legend of Zelda: Link's Awakening",
+            "The Legend of Zelda: Ocarina of Time",
+            "The Legend of Zelda: Majora's Mask",
+            "The Legend of Zelda: Oracle of Seasons",
+            "The Legend of Zelda: Oracle of Ages",
+            "The Legend of Zelda: The Wind Waker",
+            "The Legend of Zelda: Four Swords Adventures",
+            "The Legend of Zelda: The Minish Cap",
+            "The Legend of Zelda: Twilight Princess",
+            "The Legend of Zelda: Phantom Hourglass",
+            "The Legend of Zelda: Spirit Tracks",
+            "The Legend of Zelda: Skyward Sword",
+            "The Legend of Zelda: A Link Between Worlds",
+            "The Legend of Zelda: Breath of the Wild",
+            "The Legend of Zelda: Tears of the Kingdom"
+        ]
+    },
+    {
+        "category": "Super Mario",
+        "subcategories": [
+            "Super Mario Bros.",
+            "Super Mario World",
+            "Super Mario Land",
+            "Super Mario 3D World",
+            "Super Mario Sunshine",
+            "Super Mario Galaxy",
+            "Super Mario Odyssey",
+            "New Super Mario Bros."
+        ]
+    },
+    {
+        "category": "Shovel Knight",
+        "subcategories": [
+            "Shovel Knight: Shovel of Hope",
+            "Shovel Knight: Plague of Shadows",
+            "Shovel Knight: Specter of Torment",
+            "Shovel Knight: King of Cards"
+        ]
+    },
+    {
+        "category": "Super Smash Bros",
+        "subcategories": [
+            "Super Smash Bros 64",
+            "Super Smash Bros Melee",
+            "Super Smash Bros Brawl",
+            "Super Smash Bros for 3DS/Wii U",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "category": "Donkey Kong",
+        "subcategories": [
+            "Donkey Kong Country",
+            "Donkey Kong Country 2",
+            "Donkey Kong Country 3",
+            "Donkey Kong 64",
+            "Donkey Kong Jungle Beat",
+            "Donkey Kong Barrel Blast",
+            "Donkey Kong Country Returns",
+            "Donkey Kong Country Tropical Freeze",
+            "Donkey Kong Land",
+            "Donkey Konga"
+        ]
+    },
+    {
+        "category": "Sonic",
+        "subcategories": [
+            "Sonic the Hedgehog",
+            "Sonic the Hedgehog 2",
+            "Sonic the Hedgehog 3",
+            "Sonic Chaos",
+            "Sonic Blast",
+            "Sonic Advance",
+            "Sonic Blast",
+            "Sonic Adventure",
+            "Sonic Mania",
+            "Sonic Heroes",
+            "Sonic 06",
+            "Sonic and the Secret Rings",
+            "Sonic Unleashed",
+            "The Murder of Sonic the Hedgehog",
+            "Sonic and the Black Knight",
+            "Sonic Colors",
+            "Sonic Forces",
+            "Sonic Lost World",
+            "Sonic Frontiers",
+            "Sonic Riders",
+            "Sonic Boom"
+        ]
+    },
+    {
+        "category": "Kingdom Hearts",
+        "subcategories": [
+            "Kingdom Hearts: Chain of Memories",
+            "Kingdom Hearts Coded",
+            "Kingdom Hearts 358/2 Days",
+            "Kindom Hearts Birth By Sleep",
+            "Kingdom Hearts 3D: Dream Drop Distance",
+            "Kingdom Hearts: Melody of Memory"
+        ]
+    },
+    {
+        "category": "WarioWare",
+        "subcategories": [
+            "WarioWare: Mega Microgame$!",
+            "WarioWare: Twisted!",
+            "WarioWare: Touched!",
+            "WarioWare: Smooth Moves",
+            "WarioWare: Snapped!",
+            "WarioWare: D.I.Y.",
+            "WarioWare Gold",
+            "WarioWare: Get It Together!"
+        ]
+    },
+    {
+        "category": "Katamari",
+        "subcategories": [
+            "Katamari Damacy",
+            "We Love Katamari",
+            "Me & My Katamari",
+            "Beautiful Katamari",
+            "I Love Katamari",
+            "Katamari Forever",
+            "Katamari Amore",
+            "Touch My Katamari"
+        ]
+    },
+    {
+        "category": "Tetris",
+        "subcategories": [
+            "Tetris Classic",
+            "Tetris Battle Gaiden",
+            "Tetris & Dr. Mario",
+            "V-Tetris",
+            "Tetris Blast",
+            "Tetris Attack",
+            "Tetris Jr.",
+            "Tetris Plus",
+            "Kids Tetris",
+            "The New Tetris",
+            "The Next Tetris",
+            "Magical Tetris Challenge",
+            "Sega Tetris",
+            "Tetris Advance",
+            "Tetris Elements",
+            "Tetris Mania",
+            "Tetris Friends",
+            "Tetris Splash",
+            "Tetris Zone",
+            "Tetris Evolution",
+            "Tetris Party",
+            "Tetris Pop",
+            "Tetris Giant",
+            "Tetris: Axis",
+            "Tetris Stars",
+            "Tetris Blitz",
+            "Puyo Puyo Tetris",
+            "Tetris Ultimate",
+            "Tetris Effect",
+            "Tetris 99"
+
+
+        ]
+    },
+    {
+        "category": "Call of Duty",
+        "subcategories": [
+            "Call of Duty: Modern Warfare",
+            "Call of Duty: World at War",
+            "Call of Duty: Black Ops",
+            "Call of Duty: Ghosts",
+            "Call of Duty: Advanced Warfare",
+            "Call of Duty: Infinite Warfare",
+            "Call of Duty: WWII",
+            "Call of Duty: Black Ops Cold War",
+            "Call of Duty: Vanguard"
+        ]
+    },
+    {
+        "category": "Yoshi",
+        "subcategories": [
+            "Yoshi's Island",
+            "Yoshi's Story",
+            "Yoshi's Universal Gravitation",
+            "Yoshi Topsy-Turvy",
+            "Yoshi Touch & Go",
+            "Yoshi's New Island",
+            "Yoshi's Wooly World",
+            "Yoshi's Crafted World",
+            "Yoshi's Cookie",
+            "Yoshi's Safari"
+        ]
+    },
+    {
+        "category": "Horizon",
+        "subcategories": [
+            "Horizon Zero Dawn",
+            "Horizon Forbidden West"
+        ]
+    },
+    {
+        "category": "Atari",
+        "subcategories": [
+            "Atari Lynx",
+            "Atari Jaguar"
+        ]
+    }
+]
